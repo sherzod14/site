@@ -1,1 +1,1 @@
-console.log("hello js to git");
+alert("second commit");
